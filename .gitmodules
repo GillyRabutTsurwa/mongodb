@@ -1,0 +1,3 @@
+[submodule "mongodb-with-netninja"]
+	path = mongodb-with-netninja
+	url = git@github.com:GillyRabutTsurwa/mongodb-with-netninja.git
